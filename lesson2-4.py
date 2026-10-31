@@ -32,4 +32,4 @@ class Money:
     def __mul__(self):
         return Money(self.amount*other.amount,self.currency)
 
-        
+print("Hello world")   
